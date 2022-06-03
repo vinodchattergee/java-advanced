@@ -12,6 +12,6 @@ public class PizzaBuilderApp {
         System.out.println("Size " + pizza.getSize());
         System.out.println("Cheese? " + pizza.isExtraCheeseNeeded());
         System.out.println("Salad? " + pizza.isSaladNeeded());
-        
+
     }
 }
